@@ -1,0 +1,75 @@
+D:\btl_hk1_N3\C#_Pttkht\CoopFood\CoopFood\bin\Debug\CoopFood.exe.config
+D:\btl_hk1_N3\C#_Pttkht\CoopFood\CoopFood\bin\Debug\CoopFood.exe
+D:\btl_hk1_N3\C#_Pttkht\CoopFood\CoopFood\bin\Debug\CoopFood.pdb
+D:\btl_hk1_N3\C#_Pttkht\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.AssemblyReference.cache
+D:\btl_hk1_N3\C#_Pttkht\CoopFood\CoopFood\obj\Debug\CoopFood.Form1.resources
+D:\btl_hk1_N3\C#_Pttkht\CoopFood\CoopFood\obj\Debug\CoopFood.Properties.Resources.resources
+D:\btl_hk1_N3\C#_Pttkht\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.GenerateResource.cache
+D:\btl_hk1_N3\C#_Pttkht\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.CoreCompileInputs.cache
+D:\btl_hk1_N3\C#_Pttkht\CoopFood\CoopFood\obj\Debug\CoopFood.exe
+D:\btl_hk1_N3\C#_Pttkht\CoopFood\CoopFood\obj\Debug\CoopFood.pdb
+D:\btl_hk1_N3\C#_Pttkht\CoopFood\CoopFood\obj\Debug\CoopFood.fTrangChu.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\CoopFood\CoopFood\bin\Debug\CoopFood.exe.config
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\CoopFood\CoopFood\bin\Debug\CoopFood.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\CoopFood\CoopFood\bin\Debug\CoopFood.pdb
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\CoopFood\CoopFood\bin\Debug\Guna.UI2.dll
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\CoopFood\CoopFood\obj\Debug\CoopFood.Form1.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\CoopFood\CoopFood\obj\Debug\CoopFood.fTrangChu.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\CoopFood\CoopFood\obj\Debug\CoopFood.Properties.Resources.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.CopyComplete
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\CoopFood\CoopFood\obj\Debug\CoopFood.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\CoopFood\CoopFood\obj\Debug\CoopFood.pdb
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\CoopFood\CoopFood\obj\Debug\CoopFood.fNhanVien.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\CoopFood\CoopFood\obj\Debug\CoopFood.fSanPham.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\CoopFood\CoopFood\obj\Debug\CoopFood.fNhaCungCap.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\CoopFood\CoopFood\obj\Debug\CoopFood.fQuanLy.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\CoopFood\CoopFood\obj\Debug\CoopFood.fXuatHoaDon.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\CoopFood\CoopFood\obj\Debug\CoopFood.fKhachHang.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\CoopFood\CoopFood\obj\Debug\CoopFood.fThongKe.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\CoopFood\CoopFood\obj\Debug\CoopFood.fTrangChuShadow.resources
+C:\Users\Ninhdzai\Downloads\form\CoopFood\CoopFood\bin\Debug\CoopFood.exe.config
+C:\Users\Ninhdzai\Downloads\form\CoopFood\CoopFood\bin\Debug\CoopFood.exe
+C:\Users\Ninhdzai\Downloads\form\CoopFood\CoopFood\bin\Debug\CoopFood.pdb
+C:\Users\Ninhdzai\Downloads\form\CoopFood\CoopFood\bin\Debug\Guna.UI2.dll
+C:\Users\Ninhdzai\Downloads\form\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.AssemblyReference.cache
+C:\Users\Ninhdzai\Downloads\form\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ninhdzai\Downloads\form\CoopFood\CoopFood\obj\Debug\CoopFood.fKhachHang.resources
+C:\Users\Ninhdzai\Downloads\form\CoopFood\CoopFood\obj\Debug\CoopFood.fNhaCungCap.resources
+C:\Users\Ninhdzai\Downloads\form\CoopFood\CoopFood\obj\Debug\CoopFood.fNhanVien.resources
+C:\Users\Ninhdzai\Downloads\form\CoopFood\CoopFood\obj\Debug\CoopFood.Form1.resources
+C:\Users\Ninhdzai\Downloads\form\CoopFood\CoopFood\obj\Debug\CoopFood.fQuanLy.resources
+C:\Users\Ninhdzai\Downloads\form\CoopFood\CoopFood\obj\Debug\CoopFood.fSanPham.resources
+C:\Users\Ninhdzai\Downloads\form\CoopFood\CoopFood\obj\Debug\CoopFood.fThongKe.resources
+C:\Users\Ninhdzai\Downloads\form\CoopFood\CoopFood\obj\Debug\CoopFood.fTrangChu.resources
+C:\Users\Ninhdzai\Downloads\form\CoopFood\CoopFood\obj\Debug\CoopFood.fTrangChuShadow.resources
+C:\Users\Ninhdzai\Downloads\form\CoopFood\CoopFood\obj\Debug\CoopFood.fXuatHoaDon.resources
+C:\Users\Ninhdzai\Downloads\form\CoopFood\CoopFood\obj\Debug\CoopFood.Properties.Resources.resources
+C:\Users\Ninhdzai\Downloads\form\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.GenerateResource.cache
+C:\Users\Ninhdzai\Downloads\form\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.CoreCompileInputs.cache
+C:\Users\Ninhdzai\Downloads\form\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.CopyComplete
+C:\Users\Ninhdzai\Downloads\form\CoopFood\CoopFood\obj\Debug\CoopFood.exe
+C:\Users\Ninhdzai\Downloads\form\CoopFood\CoopFood\obj\Debug\CoopFood.pdb
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\Code Day Du\form\CoopFood\CoopFood\bin\Debug\CoopFood.exe.config
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\Code Day Du\form\CoopFood\CoopFood\bin\Debug\CoopFood.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\Code Day Du\form\CoopFood\CoopFood\bin\Debug\CoopFood.pdb
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\Code Day Du\form\CoopFood\CoopFood\bin\Debug\Guna.UI2.dll
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\Code Day Du\form\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\Code Day Du\form\CoopFood\CoopFood\obj\Debug\CoopFood.fKhachHang.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\Code Day Du\form\CoopFood\CoopFood\obj\Debug\CoopFood.fNhaCungCap.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\Code Day Du\form\CoopFood\CoopFood\obj\Debug\CoopFood.fNhanVien.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\Code Day Du\form\CoopFood\CoopFood\obj\Debug\CoopFood.Form1.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\Code Day Du\form\CoopFood\CoopFood\obj\Debug\CoopFood.fQuanLy.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\Code Day Du\form\CoopFood\CoopFood\obj\Debug\CoopFood.fSanPham.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\Code Day Du\form\CoopFood\CoopFood\obj\Debug\CoopFood.fThongKe.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\Code Day Du\form\CoopFood\CoopFood\obj\Debug\CoopFood.fTrangChu.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\Code Day Du\form\CoopFood\CoopFood\obj\Debug\CoopFood.fTrangChuShadow.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\Code Day Du\form\CoopFood\CoopFood\obj\Debug\CoopFood.fXuatHoaDon.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\Code Day Du\form\CoopFood\CoopFood\obj\Debug\CoopFood.Properties.Resources.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\Code Day Du\form\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\Code Day Du\form\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\Code Day Du\form\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.CopyComplete
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\Code Day Du\form\CoopFood\CoopFood\obj\Debug\CoopFood.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL\Code Day Du\form\CoopFood\CoopFood\obj\Debug\CoopFood.pdb

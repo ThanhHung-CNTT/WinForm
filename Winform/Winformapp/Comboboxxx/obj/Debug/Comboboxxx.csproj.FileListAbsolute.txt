@@ -1,0 +1,10 @@
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\Comboboxxx\bin\Debug\Comboboxxx.exe.config
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\Comboboxxx\bin\Debug\Comboboxxx.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\Comboboxxx\bin\Debug\Comboboxxx.pdb
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\Comboboxxx\obj\Debug\Comboboxxx.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\Comboboxxx\obj\Debug\Comboboxxx.Form1.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\Comboboxxx\obj\Debug\Comboboxxx.Properties.Resources.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\Comboboxxx\obj\Debug\Comboboxxx.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\Comboboxxx\obj\Debug\Comboboxxx.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\Comboboxxx\obj\Debug\Comboboxxx.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\Comboboxxx\obj\Debug\Comboboxxx.pdb

@@ -1,0 +1,10 @@
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\Buttonnnn\bin\Debug\Buttonnnn.exe.config
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\Buttonnnn\bin\Debug\Buttonnnn.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\Buttonnnn\bin\Debug\Buttonnnn.pdb
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\Buttonnnn\obj\Debug\Buttonnnn.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\Buttonnnn\obj\Debug\Buttonnnn.form1.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\Buttonnnn\obj\Debug\Buttonnnn.Properties.Resources.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\Buttonnnn\obj\Debug\Buttonnnn.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\Buttonnnn\obj\Debug\Buttonnnn.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\Buttonnnn\obj\Debug\Buttonnnn.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\Buttonnnn\obj\Debug\Buttonnnn.pdb

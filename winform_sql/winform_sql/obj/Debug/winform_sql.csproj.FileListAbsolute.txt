@@ -1,0 +1,9 @@
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winform_sql\winform_sql\bin\Debug\winform_sql.exe.config
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winform_sql\winform_sql\bin\Debug\winform_sql.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winform_sql\winform_sql\bin\Debug\winform_sql.pdb
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winform_sql\winform_sql\obj\Debug\winform_sql.Form1.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winform_sql\winform_sql\obj\Debug\winform_sql.Properties.Resources.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winform_sql\winform_sql\obj\Debug\winform_sql.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winform_sql\winform_sql\obj\Debug\winform_sql.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winform_sql\winform_sql\obj\Debug\winform_sql.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winform_sql\winform_sql\obj\Debug\winform_sql.pdb

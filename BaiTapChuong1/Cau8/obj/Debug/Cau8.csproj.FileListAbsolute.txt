@@ -1,0 +1,7 @@
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BaiTapChuong1\Cau8\bin\Debug\Cau8.exe.config
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BaiTapChuong1\Cau8\bin\Debug\Cau8.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BaiTapChuong1\Cau8\bin\Debug\Cau8.pdb
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BaiTapChuong1\Cau8\obj\Debug\Cau8.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BaiTapChuong1\Cau8\obj\Debug\Cau8.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BaiTapChuong1\Cau8\obj\Debug\Cau8.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BaiTapChuong1\Cau8\obj\Debug\Cau8.pdb

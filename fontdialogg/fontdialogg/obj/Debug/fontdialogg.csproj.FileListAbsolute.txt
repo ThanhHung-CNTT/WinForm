@@ -1,0 +1,10 @@
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\fontdialogg\fontdialogg\bin\Debug\fontdialogg.exe.config
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\fontdialogg\fontdialogg\bin\Debug\fontdialogg.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\fontdialogg\fontdialogg\bin\Debug\fontdialogg.pdb
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\fontdialogg\fontdialogg\obj\Debug\fontdialogg.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\fontdialogg\fontdialogg\obj\Debug\fontdialogg.Form1.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\fontdialogg\fontdialogg\obj\Debug\fontdialogg.Properties.Resources.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\fontdialogg\fontdialogg\obj\Debug\fontdialogg.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\fontdialogg\fontdialogg\obj\Debug\fontdialogg.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\fontdialogg\fontdialogg\obj\Debug\fontdialogg.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\fontdialogg\fontdialogg\obj\Debug\fontdialogg.pdb

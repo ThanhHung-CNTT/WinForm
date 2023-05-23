@@ -1,0 +1,7 @@
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BaiTap_PhanSo\BT_Phan_So\BT_Phan_So\bin\Debug\BT_Phan_So.exe.config
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BaiTap_PhanSo\BT_Phan_So\BT_Phan_So\bin\Debug\BT_Phan_So.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BaiTap_PhanSo\BT_Phan_So\BT_Phan_So\bin\Debug\BT_Phan_So.pdb
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BaiTap_PhanSo\BT_Phan_So\BT_Phan_So\obj\Debug\BT_Phan_So.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BaiTap_PhanSo\BT_Phan_So\BT_Phan_So\obj\Debug\BT_Phan_So.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BaiTap_PhanSo\BT_Phan_So\BT_Phan_So\obj\Debug\BT_Phan_So.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BaiTap_PhanSo\BT_Phan_So\BT_Phan_So\obj\Debug\BT_Phan_So.pdb

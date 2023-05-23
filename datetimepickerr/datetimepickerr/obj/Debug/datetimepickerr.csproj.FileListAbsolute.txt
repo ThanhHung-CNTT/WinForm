@@ -1,0 +1,10 @@
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\datetimepickerr\datetimepickerr\bin\Debug\datetimepickerr.exe.config
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\datetimepickerr\datetimepickerr\bin\Debug\datetimepickerr.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\datetimepickerr\datetimepickerr\bin\Debug\datetimepickerr.pdb
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\datetimepickerr\datetimepickerr\obj\Debug\datetimepickerr.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\datetimepickerr\datetimepickerr\obj\Debug\datetimepickerr.Form1.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\datetimepickerr\datetimepickerr\obj\Debug\datetimepickerr.Properties.Resources.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\datetimepickerr\datetimepickerr\obj\Debug\datetimepickerr.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\datetimepickerr\datetimepickerr\obj\Debug\datetimepickerr.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\datetimepickerr\datetimepickerr\obj\Debug\datetimepickerr.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\datetimepickerr\datetimepickerr\obj\Debug\datetimepickerr.pdb

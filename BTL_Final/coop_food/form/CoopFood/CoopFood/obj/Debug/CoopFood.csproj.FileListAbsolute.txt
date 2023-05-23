@@ -1,0 +1,77 @@
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\bin\Debug\CoopFood.exe.config
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\bin\Debug\CoopFood.exe
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\bin\Debug\CoopFood.pdb
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\bin\Debug\BouncyCastle.Crypto.dll
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\bin\Debug\Guna.UI2.dll
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\bin\Debug\itextsharp.dll
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\bin\Debug\System.ComponentModel.Annotations.dll
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\bin\Debug\itextsharp.xml
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.AssemblyReference.cache
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.SuggestedBindingRedirects.cache
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\obj\Debug\CoopFood.fKhachHang.resources
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\obj\Debug\CoopFood.fNhaCungCap.resources
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\obj\Debug\CoopFood.fNhanVien.resources
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\obj\Debug\CoopFood.Form1.resources
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\obj\Debug\CoopFood.fQuanLy.resources
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\obj\Debug\CoopFood.fSanPham.resources
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\obj\Debug\CoopFood.fThongKe.resources
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\obj\Debug\CoopFood.fTrangChu.resources
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\obj\Debug\CoopFood.fTrangChuShadow.resources
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\obj\Debug\CoopFood.fXuatHoaDon.resources
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\obj\Debug\CoopFood.Properties.Resources.resources
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.GenerateResource.cache
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.CoreCompileInputs.cache
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.CopyComplete
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\obj\Debug\CoopFood.exe
+D:\DATA\COOP_POOD\form\CoopFood\CoopFood\obj\Debug\CoopFood.pdb
+D:\DATA\coop_food\form\CoopFood\CoopFood\bin\Debug\CoopFood.exe.config
+D:\DATA\coop_food\form\CoopFood\CoopFood\bin\Debug\CoopFood.exe
+D:\DATA\coop_food\form\CoopFood\CoopFood\bin\Debug\CoopFood.pdb
+D:\DATA\coop_food\form\CoopFood\CoopFood\bin\Debug\BouncyCastle.Crypto.dll
+D:\DATA\coop_food\form\CoopFood\CoopFood\bin\Debug\Guna.UI2.dll
+D:\DATA\coop_food\form\CoopFood\CoopFood\bin\Debug\itextsharp.dll
+D:\DATA\coop_food\form\CoopFood\CoopFood\bin\Debug\System.ComponentModel.Annotations.dll
+D:\DATA\coop_food\form\CoopFood\CoopFood\bin\Debug\itextsharp.xml
+D:\DATA\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.AssemblyReference.cache
+D:\DATA\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.SuggestedBindingRedirects.cache
+D:\DATA\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.fKhachHang.resources
+D:\DATA\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.fNhaCungCap.resources
+D:\DATA\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.fNhanVien.resources
+D:\DATA\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.Form1.resources
+D:\DATA\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.fQuanLy.resources
+D:\DATA\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.fSanPham.resources
+D:\DATA\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.fThongKe.resources
+D:\DATA\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.fTrangChu.resources
+D:\DATA\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.fTrangChuShadow.resources
+D:\DATA\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.fXuatHoaDon.resources
+D:\DATA\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.Properties.Resources.resources
+D:\DATA\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.GenerateResource.cache
+D:\DATA\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.CoreCompileInputs.cache
+D:\DATA\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.CopyComplete
+D:\DATA\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.exe
+D:\DATA\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.pdb
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\bin\Debug\CoopFood.exe.config
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\bin\Debug\CoopFood.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\bin\Debug\CoopFood.pdb
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\bin\Debug\Guna.UI2.dll
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\bin\Debug\itextsharp.dll
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\bin\Debug\itextsharp.xml
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.fKhachHang.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.fNhaCungCap.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.fNhanVien.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.Form1.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.fQuanLy.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.fSanPham.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.fThongKe.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.fTrangChu.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.fTrangChuShadow.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.fXuatHoaDon.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.Properties.Resources.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.csproj.CopyComplete
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BTL_Final\coop_food\form\CoopFood\CoopFood\obj\Debug\CoopFood.pdb

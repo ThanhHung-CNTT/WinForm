@@ -1,0 +1,7 @@
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Lop_DoiTuong\CLass_Object\CLass_Object\bin\Debug\CLass_Object.exe.config
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Lop_DoiTuong\CLass_Object\CLass_Object\bin\Debug\CLass_Object.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Lop_DoiTuong\CLass_Object\CLass_Object\bin\Debug\CLass_Object.pdb
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Lop_DoiTuong\CLass_Object\CLass_Object\obj\Debug\CLass_Object.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Lop_DoiTuong\CLass_Object\CLass_Object\obj\Debug\CLass_Object.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Lop_DoiTuong\CLass_Object\CLass_Object\obj\Debug\CLass_Object.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Lop_DoiTuong\CLass_Object\CLass_Object\obj\Debug\CLass_Object.pdb

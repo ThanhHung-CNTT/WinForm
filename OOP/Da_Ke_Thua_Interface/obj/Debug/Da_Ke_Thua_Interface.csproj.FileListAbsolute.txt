@@ -1,0 +1,6 @@
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\OOP\Da_Ke_Thua_Interface\bin\Debug\Da_Ke_Thua_Interface.exe.config
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\OOP\Da_Ke_Thua_Interface\bin\Debug\Da_Ke_Thua_Interface.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\OOP\Da_Ke_Thua_Interface\bin\Debug\Da_Ke_Thua_Interface.pdb
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\OOP\Da_Ke_Thua_Interface\obj\Debug\Da_Ke_Thua_Interface.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\OOP\Da_Ke_Thua_Interface\obj\Debug\Da_Ke_Thua_Interface.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\OOP\Da_Ke_Thua_Interface\obj\Debug\Da_Ke_Thua_Interface.pdb

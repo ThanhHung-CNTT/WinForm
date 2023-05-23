@@ -1,0 +1,9 @@
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\lableeeeel\bin\Debug\lableeeeel.exe.config
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\lableeeeel\bin\Debug\lableeeeel.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\lableeeeel\bin\Debug\lableeeeel.pdb
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\lableeeeel\obj\Debug\lableeeeel.Form1.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\lableeeeel\obj\Debug\lableeeeel.Properties.Resources.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\lableeeeel\obj\Debug\lableeeeel.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\lableeeeel\obj\Debug\lableeeeel.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\lableeeeel\obj\Debug\lableeeeel.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\Winform\Winformapp\lableeeeel\obj\Debug\lableeeeel.pdb

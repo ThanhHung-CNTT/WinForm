@@ -1,0 +1,9 @@
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winform_sql\Datagirdview_Sql\bin\Debug\Datagirdview_Sql.exe.config
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winform_sql\Datagirdview_Sql\bin\Debug\Datagirdview_Sql.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winform_sql\Datagirdview_Sql\bin\Debug\Datagirdview_Sql.pdb
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winform_sql\Datagirdview_Sql\obj\Debug\Datagirdview_Sql.Form1.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winform_sql\Datagirdview_Sql\obj\Debug\Datagirdview_Sql.Properties.Resources.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winform_sql\Datagirdview_Sql\obj\Debug\Datagirdview_Sql.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winform_sql\Datagirdview_Sql\obj\Debug\Datagirdview_Sql.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winform_sql\Datagirdview_Sql\obj\Debug\Datagirdview_Sql.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winform_sql\Datagirdview_Sql\obj\Debug\Datagirdview_Sql.pdb

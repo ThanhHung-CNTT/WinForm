@@ -1,0 +1,6 @@
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BaiTapChuong1\Cau7\bin\Debug\Cau7.exe.config
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BaiTapChuong1\Cau7\bin\Debug\Cau7.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BaiTapChuong1\Cau7\bin\Debug\Cau7.pdb
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BaiTapChuong1\Cau7\obj\Debug\Cau7.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BaiTapChuong1\Cau7\obj\Debug\Cau7.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\BaiTapChuong1\Cau7\obj\Debug\Cau7.pdb

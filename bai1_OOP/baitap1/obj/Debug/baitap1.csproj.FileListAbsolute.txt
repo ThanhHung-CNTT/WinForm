@@ -1,0 +1,8 @@
+E:\Project\baitap\baitap1\baitap1\obj\Debug\baitap1.csproj.AssemblyReference.cache
+E:\Project\baitap\baitap1\baitap1\obj\Debug\baitap1.csproj.SuggestedBindingRedirects.cache
+E:\Project\baitap\baitap1\baitap1\obj\Debug\baitap1.csproj.CoreCompileInputs.cache
+E:\Project\baitap\baitap1\baitap1\bin\Debug\baitap1.exe.config
+E:\Project\baitap\baitap1\baitap1\bin\Debug\baitap1.exe
+E:\Project\baitap\baitap1\baitap1\bin\Debug\baitap1.pdb
+E:\Project\baitap\baitap1\baitap1\obj\Debug\baitap1.exe
+E:\Project\baitap\baitap1\baitap1\obj\Debug\baitap1.pdb

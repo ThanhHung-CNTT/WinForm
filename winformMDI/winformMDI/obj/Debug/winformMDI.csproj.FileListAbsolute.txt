@@ -1,0 +1,10 @@
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winformMDI\winformMDI\bin\Debug\winformMDI.exe.config
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winformMDI\winformMDI\bin\Debug\winformMDI.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winformMDI\winformMDI\bin\Debug\winformMDI.pdb
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winformMDI\winformMDI\obj\Debug\winformMDI.csproj.AssemblyReference.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winformMDI\winformMDI\obj\Debug\winformMDI.Form1.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winformMDI\winformMDI\obj\Debug\winformMDI.Properties.Resources.resources
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winformMDI\winformMDI\obj\Debug\winformMDI.csproj.GenerateResource.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winformMDI\winformMDI\obj\Debug\winformMDI.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winformMDI\winformMDI\obj\Debug\winformMDI.exe
+C:\Users\ACER\Desktop\Goc hoc tap\Bai Tren lop\Lap trinh truc quan\winformMDI\winformMDI\obj\Debug\winformMDI.pdb
